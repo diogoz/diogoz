@@ -1,6 +1,6 @@
 ### Desenvolvedor React/React Native 🤙
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diogo-sousa-9637a2113/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/diogo-sousa-9637a2113/](https://www.linkedin.com/in/diogo-henrique-evangelista-sousa/))
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5518996031976)
 
 ![Diogoz's GitHub stats](https://github-readme-stats.vercel.app/api?username=diogoz&show_icons=true&theme=dracula)
